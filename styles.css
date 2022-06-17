@@ -14,7 +14,17 @@ html {
   margin-bottom: 20px;
 }
 
-#paragraph {
+#Intro {
   text-align: left;
   margin-left: 40px;
+}
+
+#Companies {
+  text-align: left;
+  margin-left: 20px;
+}
+
+#Games {
+  text-align: left;
+  margin-left: 20px;
 }
